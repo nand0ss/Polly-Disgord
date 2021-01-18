@@ -1,4 +1,2 @@
 # disgord-starter
-Template repository for Disgord bots
-
-This is a starter repo for the project https://github.com/andersfylling/disgord
+This is the Starter guide for Disgord users. and source code for polly.
